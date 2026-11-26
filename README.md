@@ -18,14 +18,14 @@ Give each series its own deck and its own options preset with New cards/day = 1 
 
 ## Install
 
-Build the add-on (below) or download it from Releases, then in Anki: Tools > Add-ons > Install from file, and restart.
+Download **[pathtofluent_checkpoint.ankiaddon](https://github.com/pathtofluent/checkpoint/raw/main/download/pathtofluent_checkpoint.ankiaddon)**. Double-click it, or in Anki: Tools > Add-ons > Install from file. Then restart Anki.
 
 On AnkiMobile and AnkiDroid these cards show the usual four buttons; tap Good.
 
 ## Building
 
 ```
-python3 tools/build.py         # writes dist/pathtofluent_checkpoint.ankiaddon
+python3 tools/build.py         # writes download/pathtofluent_checkpoint.ankiaddon
 ```
 
 ## The PathToFluent tools
@@ -36,6 +36,7 @@ python3 tools/build.py         # writes dist/pathtofluent_checkpoint.ankiaddon
 | [Waypoint](https://github.com/pathtofluent/waypoint) | Sorts sentence cards so the next one has exactly one unknown word |
 | [Checkpoint](https://github.com/pathtofluent/checkpoint) | A single Complete button for chapter and lesson cards |
 | [Scout](https://github.com/pathtofluent/scout) | Finds Netflix titles by country and original language |
+| [Logbook](https://github.com/pathtofluent/logbook) | Logs your time with a language and tracks hours, known words and milestones |
 
 ## Licence
 
