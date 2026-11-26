@@ -1,0 +1,7 @@
+{
+    "note_types": ["Task"],
+    "button_label": "Complete",
+    "skip_show_answer": true,
+    "ease_first_time": 4,
+    "ease_review": 3
+}
